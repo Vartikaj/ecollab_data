@@ -1,0 +1,4262 @@
+[
+    {
+        "id": "1902095191393740",
+        "SentByUid": "0901233445995502406",
+        "PKey": "1902095191393740",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T10:02:09.5106569+05:30",
+        "StartDate": "2024-04-19T10:02:09.5106569+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "0901233445995502406",
+            "Salutation": "Dr.",
+            "Type": "Provider",
+            "SubType": "MO",
+            "FirstName": "K  SUSHMITHA",
+            "MiddleName": "",
+            "LastName": "K",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1979-01-06T00:00:00",
+            "SpecialityCode": 0,
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "lstLanguage": [],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9502031613",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "uphctirumalgiri@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901236394393571262",
+                    "LocationDepartmentUid": "060123045055692405",
+                    "LocationDepartmentName": "UPHC TIRUMALGIRI HYDERABAD(Medical Officer)",
+                    "LocationUid": "06012304867887422",
+                    "LocationName": "UPHC TIRUMALGIRI HYDERABAD",
+                    "PractitionerProviderUid": "0901233445995502406",
+                    "OrganizationUid": "0401202302757601",
+                    "OrganizationName": "Telangana",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE Cum HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "UPHC TIRUMALGIRI HYDERABAD",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 507,
+                    "DistrictDisplay": "Hyderabad",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "CityCode": 4502,
+                    "CityDisplay": "Amberpet",
+                    "PostalCode": "500001",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "GenderCode": 0,
+            "SpecialityCode": 0,
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "1946183312081051",
+            "Age": 46,
+            "Birthdate": "1978-04-19T00:00:00Z",
+            "FirstName": "salomy",
+            "LastName": "",
+            "MiddleName": "",
+            "lstPatientContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9701446516",
+                    "ContactPointStatus": true
+                }
+            ],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "lalbazar",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "DistrictCode": 507,
+                    "DistrictDisplay": "Hyderabad",
+                    "CityCode": 4499,
+                    "CityDisplay": "Tirumalgiri",
+                    "PostalCode": "500015",
+                    "BlockCode": 4995,
+                    "BlockDisplay": "Tirumalagiry",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "0901233445995502406",
+            "LocationUId": "06012304867887422",
+            "OrganizationUId": "0401202302757601",
+            "ABHAStatus": 0,
+            "ABHAType": "NA",
+            "ABHATypeCode": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 131292,
+            "LocationUid": "06012304867887422",
+            "Name": "UPHC TIRUMALGIRI HYDERABAD",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 2,
+            "TypeDisplay": "SPOKE Cum HUB",
+            "Priority": 1152500,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "UPHC TIRUMALGIRI HYDERABAD",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 507,
+            "DistrictDisplay": "HYDERABAD",
+            "CityCode": 4502,
+            "CityDisplay": "AMBERPET",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "500001",
+            "HFRRegistered": false
+        },
+        "SentToLocationDetailModel": {
+            "Id": 134231,
+            "LocationUid": "060123307982215472",
+            "Name": "AIIMS BIBINAGAR YADADRI BHUVANAGIRI",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 1,
+            "TypeDisplay": "HUB",
+            "Priority": 1195450,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "AIIMS BIBINAGAR YADADRI BHUVANAGIRI",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 697,
+            "DistrictDisplay": "YADADRI BHUVANAGIRI",
+            "CityCode": 6310,
+            "CityDisplay": "ADDA GUDURU",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "508125",
+            "HFRRegistered": false
+        },
+        "lstEncounterHealthRecords": [],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": "no"
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "HTN  since 4 years",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [
+                {
+                    "Code": "161445009",
+                    "SnomedCode": "161445009",
+                    "Name": "Diabetes"
+                }
+            ],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null,
+            "IsShippingRequired": false
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "inspite of using medication still sugar levels are HIGH"
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1902095191393740",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T10:02:10.0624713+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": ""
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1946188520710995",
+            "StartDatetime": "2024-04-19 09:46:19.154844",
+            "EndDatetime": "2024-04-19 09:56:59.729902",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Diabetes",
+                    "Code": "73211009",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Duration",
+                            "Value": "Since many years",
+                            "Code": "162440001"
+                        },
+                        {
+                            "Tag": "Cardiac Symptoms",
+                            "Value": "Add to the list - NO",
+                            "Code": "74964007"
+                        },
+                        {
+                            "Tag": "Nephropathy Symptoms",
+                            "Value": "Add to the list - NO",
+                            "Code": "74964007"
+                        },
+                        {
+                            "Tag": "Vision",
+                            "Value": "Add to the list - NO",
+                            "Code": "74964007"
+                        }
+                    ]
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1902095191393740/Prescription.pdf",
+        "ConsultationScore": 38.3,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "364011",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cCsOQQBAAAACg==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cCsOQQBAAAACg==/",
+        "_etag": "\"0d000661-0000-2000-0000-6621f3ca0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713501130
+    },
+    {
+        "id": "1909362952490179",
+        "SentByUid": "1755107112734874",
+        "PKey": "1909362952490179",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T11:09:36.2895432+05:30",
+        "StartDate": "2024-04-19T11:09:36.2895432+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "1755107112734874",
+            "Salutation": "Mrs",
+            "Type": "Provider",
+            "SubType": "CHO",
+            "FirstName": "Meena",
+            "MiddleName": "",
+            "LastName": "kumari",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1994-11-02T00:00:00",
+            "SpecialityCode": 0,
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 5,
+            "QualificationDisplay": "B.Sc",
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "7999399366",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "1994mkbabua2@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "1703231903829645",
+                    "LocationDepartmentUid": "0",
+                    "LocationDepartmentName": "",
+                    "LocationUid": "2802233301033554",
+                    "LocationName": "SC Lalanpur Mau",
+                    "PractitionerProviderUid": "1755107112734874",
+                    "OrganizationUid": "2812202209767694",
+                    "OrganizationName": "Uttar Pradesh",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "SC Lalanpur Mau",
+                    "AddressLine2": "SC Lalanpur Mau",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 168,
+                    "DistrictDisplay": "Mau",
+                    "StateCode": 9,
+                    "StateDisplay": "Uttar Pradesh",
+                    "CityCode": 972,
+                    "CityDisplay": "Madhuban",
+                    "PostalCode": "275101",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "IsMobileVerified": true,
+            "IsEmailVerified": true
+        },
+        "SentTo": {
+            "UId": "1018450209170930",
+            "Salutation": "",
+            "Type": "Practitioner",
+            "SubType": "Doctor",
+            "FirstName": "Rajeev",
+            "MiddleName": "Kumar",
+            "LastName": "Pandey",
+            "GenderCode": 1,
+            "GenderDisplay": "Male",
+            "DOB": "1978-03-31T18:30:00Z",
+            "SpecialityCode": 75,
+            "SpecialityDisplay": "Medical Officer",
+            "MCINumber": "UP56011",
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "Experience": "10 year",
+            "Biography": "",
+            "lstLanguage": [
+                {
+                    "Id": "2",
+                    "Name": "English"
+                },
+                {
+                    "Id": "3",
+                    "Name": "Hindi"
+                }
+            ],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9792904920",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "drrajeevkumarpandey@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "1141316366851929",
+                    "LocationDepartmentUid": "060123101798595122",
+                    "LocationDepartmentName": "CHC Fatehpur Mondaon MAU(Medical Officer)",
+                    "LocationUid": "060123102935169201",
+                    "LocationName": "CHC Fatehpur Mondaon MAU",
+                    "PractitionerProviderUid": "1018450209170930",
+                    "OrganizationUid": "2812202209767694",
+                    "OrganizationName": "Uttar Pradesh",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE Cum HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "CHc",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 168,
+                    "DistrictDisplay": "Mau",
+                    "StateCode": 9,
+                    "StateDisplay": "Uttar Pradesh",
+                    "CityCode": 973,
+                    "CityDisplay": "Maunath Bhanjan",
+                    "PostalCode": "275101",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "1900129070202169",
+            "Age": 45,
+            "Birthdate": "1979-04-19T00:00:00Z",
+            "FirstName": "Shila",
+            "LastName": "",
+            "MiddleName": "",
+            "lstPatientContactDetail": [],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Lalanpur ",
+                    "AddressLine2": "",
+                    "BaseStateCode": 0,
+                    "BaseStateDisplay": null,
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 9,
+                    "StateDisplay": "Uttar Pradesh",
+                    "DistrictCode": 168,
+                    "DistrictDisplay": "Mau",
+                    "CityCode": 972,
+                    "CityDisplay": "Madhuban",
+                    "PostalCode": "221603",
+                    "BlockCode": 1381,
+                    "BlockDisplay": "Fatehpur Madaun",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "1755107112734874",
+            "LocationUId": "2802233301033554",
+            "OrganizationUId": "2812202209767694",
+            "ABHAStatus": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 178214,
+            "LocationUid": "2802233301033554",
+            "Name": "SC Lalanpur Mau",
+            "OrganizationUid": "2812202209767694",
+            "TypeCode": 3,
+            "TypeDisplay": "SPOKE",
+            "Priority": 2188300,
+            "ImagePath": "",
+            "LocationContactDetail": "[{\"Id\": 475, \"LocationUid\": \"2802233301033554\", \"ContactPointUse\": \"Work\", \"ContactPointType\": \"Email\", \"ContactPointValue\": \"sclalanpur@gmail.com\", \"ContactPointStatus\": \"true\"}]",
+            "locationContactDetailMappingModel": [
+                {
+                    "Id": 475,
+                    "LocationUid": "2802233301033554",
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "sclalanpur@gmail.com",
+                    "ContactPointStatus": true,
+                    "CreatedByType": null,
+                    "CreatedBy": "1",
+                    "CreatedDate": "2024-04-19T11:09:36.6121354+05:30",
+                    "ModifiedBy": "1",
+                    "ModifiedDate": "2024-04-19T11:09:36.6121354+05:30",
+                    "Source": 1
+                }
+            ],
+            "LocationSubTypeCode": 99,
+            "LocationSubTypeDisplay": "SubCentre",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "  ",
+            "AddressLine2": "Lalanpur",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 9,
+            "StateDisplay": "Uttar Pradesh",
+            "DistrictCode": 168,
+            "DistrictDisplay": "Mau",
+            "CityCode": 971,
+            "CityDisplay": "Ghosi",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "BlockCode": 1381,
+            "BlockDisplay": "Fatehpur Madaun",
+            "SecretariatCode": 0,
+            "SecretariatDisplay": "",
+            "TalukaCode": 972,
+            "TalukaDisplay": "Madhuban",
+            "PostalCode": "221603",
+            "RegionIndicator": 1,
+            "NIN": "4168581488"
+        },
+        "SentToLocationDetailModel": {
+            "Id": 175459,
+            "LocationUid": "060123102935169201",
+            "Name": "CHC Fatehpur Mondaon MAU",
+            "OrganizationUid": "2812202209767694",
+            "TypeCode": 2,
+            "TypeDisplay": "SPOKE Cum HUB",
+            "Priority": 2050750,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "CHC Fatehpur Mondaon MAU",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 9,
+            "StateDisplay": "Uttar Pradesh",
+            "DistrictCode": 168,
+            "DistrictDisplay": "MAU",
+            "CityCode": 971,
+            "CityDisplay": "GHOSI",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "BlockCode": 1381,
+            "BlockDisplay": "Fatehpur Madaun",
+            "TalukaCode": 0,
+            "TalukaDisplay": "",
+            "PostalCode": "221601"
+        },
+        "lstEncounterHealthRecords": [],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": "No"
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "No",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [
+                {
+                    "Code": "129125009",
+                    "SnomedCode": "129125009",
+                    "Name": "Medical Treatment"
+                }
+            ],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [
+                {
+                    "RxCode": 3500545013,
+                    "RxSnomedCode": 0,
+                    "RxDisplay": "Paracetamol 500 mg oral tablet",
+                    "DosageType": "Tablet",
+                    "DosageValue": "1",
+                    "Durationtype": "Day(s)",
+                    "Durationvalue": "3",
+                    "Frequency": "BD"
+                },
+                {
+                    "RxCode": 4550213015,
+                    "RxSnomedCode": 0,
+                    "RxDisplay": "Amoxicillin 200 mg oral tablet",
+                    "DosageType": "Tablet",
+                    "DosageValue": "1",
+                    "Durationtype": "Day(s)",
+                    "Durationvalue": "3",
+                    "Frequency": "BD"
+                },
+                {
+                    "RxCode": 3500976010,
+                    "RxSnomedCode": 0,
+                    "RxDisplay": "Ibuprofen 200 mg oral tablet",
+                    "DosageType": "Tablet",
+                    "DosageValue": "1",
+                    "Durationtype": "Day(s)",
+                    "Durationvalue": "3",
+                    "Frequency": "BD"
+                }
+            ],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "Enter Manually ",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [
+                {
+                    "TestCode": 1,
+                    "TestName": "TEMPERATURE",
+                    "TestDisplayName": "Temperature",
+                    "TestResult": "99",
+                    "TestUnit": "°F",
+                    "Remarks": null,
+                    "FileType": null,
+                    "Type": null,
+                    "VendorId": 0,
+                    "DeviceName": "Enter Manually",
+                    "IsUploaded": true
+                }
+            ],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "Fever, Common Cold, Headache"
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1909362952490179",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T11:09:36.9095826+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1909362952490179",
+                "Message": "Call Initiated",
+                "Time": "2024-04-19T11:09:37.3363012+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "1018450209170930"
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1900140756066125",
+            "StartDatetime": "2024-04-19 11:00:15.064283",
+            "EndDatetime": "2024-04-19 11:03:21.279402",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Fever",
+                    "Code": "386661006",
+                    "BodyPart": "",
+                    "Attributes": []
+                },
+                {
+                    "Alias": "Common Cold",
+                    "Code": "82272006",
+                    "BodyPart": "",
+                    "Attributes": []
+                },
+                {
+                    "Alias": "Cough",
+                    "Code": "49727002",
+                    "BodyPart": "",
+                    "Attributes": []
+                },
+                {
+                    "Alias": "Headache",
+                    "Code": "25064002",
+                    "BodyPart": "",
+                    "Attributes": []
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1909362952490179/Prescription.pdf",
+        "eCollabCaseDetails": false,
+        "ConsultationScore": 33.3,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "135619",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cBfJEoBAAAAAA==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cBfJEoBAAAAAA==/",
+        "_etag": "\"09002f05-0000-2000-0000-662203990000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713505177
+    },
+    {
+        "id": "1954052770327117",
+        "SentByUid": "1047590760755994",
+        "PKey": "1954052770327117",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T10:56:32.4207584+05:30",
+        "StartDate": "2024-04-19T10:56:32.4207584+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "1047590760755994",
+            "Salutation": "Mrs",
+            "Type": "Provider",
+            "SubType": "MLHP",
+            "FirstName": "Chandanana",
+            "MiddleName": "",
+            "LastName": "Santhosh",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1999-05-06T18:30:00Z",
+            "SpecialityCode": 0,
+            "QualificationCode": 4,
+            "QualificationDisplay": "Other",
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "8714865519",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "chandanasanthosh358@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "1048381482113111",
+                    "LocationDepartmentUid": "0",
+                    "LocationDepartmentName": "",
+                    "LocationUid": "060123591028965782",
+                    "LocationName": "UPHC THAMMANAM ERNAKULAM",
+                    "PractitionerProviderUid": "1047590760755994",
+                    "OrganizationUid": "0401202305878206",
+                    "OrganizationName": "Kerala",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "venmalasseri (H)CHERAYI P.O",
+                    "AddressLine2": "KAITHARAM P.O",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 555,
+                    "DistrictDisplay": "Ernakulam",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "CityCode": 5660,
+                    "CityDisplay": "Kochi",
+                    "PostalCode": "682025",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "UId": "0603234505188439",
+            "Salutation": "",
+            "Type": "Practitioner",
+            "FirstName": "JISS",
+            "MiddleName": "ELIZABETH",
+            "LastName": "SEBASTIAN",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1985-01-06T08:00:00Z",
+            "SpecialityCode": 10,
+            "SpecialityDisplay": "Dermatology",
+            "MCINumber": "TCMC42247",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": "/esanjeevani-docs/esanjeevani-practitionar-docs/0603234505188439/Signature/jiss sign.png",
+                "SignatureImageName": "jiss sign.png",
+                "SignatureImageType": "image/png"
+            },
+            "QualificationCode": 2,
+            "QualificationDisplay": "MD",
+            "Experience": "2 year",
+            "Biography": "",
+            "PlaceOfWork": "Ernakulam",
+            "lstLanguage": [
+                {
+                    "Id": "2",
+                    "Name": "English"
+                },
+                {
+                    "Id": "13",
+                    "Name": "Malayalam"
+                }
+            ],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9895868279",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "jiss6185@yahoo.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0603231501940094",
+                    "LocationDepartmentUid": "060123328412710965",
+                    "LocationDepartmentName": "HUB STATE KERALA(Dermatology)",
+                    "LocationUid": "060123314338544068",
+                    "LocationName": "HUB STATE KERALA",
+                    "PractitionerProviderUid": "0603234505188439",
+                    "OrganizationUid": "0401202305878206",
+                    "OrganizationName": "Kerala",
+                    "IsRemoved": false,
+                    "FunctionalType": "HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Office of the District Programme Manager, Arogyakeralam(NRHM",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 565,
+                    "DistrictDisplay": "Thiruvananthapuram",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "CityCode": 5691,
+                    "CityDisplay": "Thiruvananthapuram",
+                    "PostalCode": "692024",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": true,
+            "IsEmailVerified": true
+        },
+        "PatientDetailModel": {
+            "id": "1931319648406599",
+            "Age": 47,
+            "Birthdate": "1977-04-19T00:00:00Z",
+            "FirstName": "GRACY",
+            "LastName": "",
+            "MiddleName": "",
+            "lstPatientContactDetail": [],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "THAMMANAM",
+                    "AddressLine2": "",
+                    "BaseStateCode": 0,
+                    "BaseStateDisplay": null,
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "DistrictCode": 555,
+                    "DistrictDisplay": "Ernakulam",
+                    "CityCode": 5661,
+                    "CityDisplay": "Kanayannur",
+                    "PostalCode": "683520",
+                    "BlockCode": 5963,
+                    "BlockDisplay": "Edappally",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "1047590760755994",
+            "LocationUId": "060123591028965782",
+            "OrganizationUId": "0401202305878206",
+            "ABHAStatus": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 49812,
+            "LocationUid": "060123591028965782",
+            "Name": "UPHC THAMMANAM ERNAKULAM",
+            "OrganizationUid": "0401202305878206",
+            "TypeCode": 3,
+            "TypeDisplay": "SPOKE",
+            "Priority": 121650,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "UPHC THAMMANAM",
+            "AddressLine2": "URBAN FAMILY HEALTH CENTER,THAMMANAM ,BUILDING NO.44/2514 SA",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 32,
+            "StateDisplay": "Kerala",
+            "DistrictCode": 555,
+            "DistrictDisplay": "ERNAKULAM",
+            "CityCode": 5660,
+            "CityDisplay": "KOCHI",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "682025"
+        },
+        "SentToLocationDetailModel": {
+            "Id": 52193,
+            "LocationUid": "060123314338544068",
+            "Name": "HUB STATE KERALA",
+            "OrganizationUid": "0401202305878206",
+            "TypeCode": 1,
+            "TypeDisplay": "HUB",
+            "Priority": 149100,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "HUB STATE KERALA",
+            "AddressLine2": "Office of the District Programme Manager, Arogyakeralam(NRHM",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 32,
+            "StateDisplay": "Kerala",
+            "DistrictCode": 565,
+            "DistrictDisplay": "THIRUVANANTHAPURAM",
+            "CityCode": 5691,
+            "CityDisplay": "THIRUVANANTHAPURAM",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "695014"
+        },
+        "lstEncounterHealthRecords": [
+            {
+                "FileName": "GRACY FACE PHOTO.jpeg",
+                "FilePath": "/esanjeevani-docs/encounter-docs/1954052770327117/GRACY FACE PHOTO.jpeg",
+                "FileExt": "image/jpeg",
+                "BookingNumber": null,
+                "DocumentType": "Prescription",
+                "DocumentCode": "440545006",
+                "recordType": "0",
+                "recordId": "0"
+            }
+        ],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": ""
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "PATIENT COMPLAINT OF NODULES OVER THE FOREHEAD AND CHEST AREA SINCE 6 DAYS"
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1954052770327117",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T10:54:05.6189029+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": ""
+            },
+            {
+                "EncounterUId": "1954052770327117",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T10:56:33.0263388+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0603234505188439"
+            },
+            {
+                "EncounterUId": "1954052770327117",
+                "Message": "Call Initiated",
+                "Time": "2024-04-19T10:56:33.377333+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "0603234505188439"
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1932399568633090",
+            "StartDatetime": "2024-04-19 10:32:40.385349",
+            "EndDatetime": "2024-04-19 10:36:01.787354",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Add to the list - NODULES ON FOREHEAD",
+                    "Code": "",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Default Symptom - Description",
+                            "Value": "NODULES OVER THE FORHEAD AND CHEST AREA",
+                            "Code": ""
+                        },
+                        {
+                            "Tag": "Default Symptom - Duration",
+                            "Value": "Recently",
+                            "Code": "162437001"
+                        },
+                        {
+                            "Tag": "Default Symptom - Onset",
+                            "Value": "Sudden",
+                            "Code": "385315009"
+                        }
+                    ]
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1954052770327117/Prescription.pdf",
+        "eCollabCaseDetails": false,
+        "ConsultationScore": 25,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "826519",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cC5zFIBAAAACA==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cC5zFIBAAAACA==/",
+        "_etag": "\"0800a5b8-0000-2000-0000-662200890000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713504393
+    },
+    {
+        "id": "1958079122652286",
+        "SentByUid": "0901235968874006111",
+        "PKey": "1958079122652286",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T12:07:12.7227265+05:30",
+        "StartDate": "2024-04-19T12:07:12.7227265+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "0901235968874006111",
+            "Salutation": "Dr.",
+            "Type": "Practitioner",
+            "FirstName": "Neha",
+            "MiddleName": "",
+            "LastName": "",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1996-06-18T18:30:00Z",
+            "SpecialityCode": 75,
+            "SpecialityDisplay": "Medical Officer",
+            "MCINumber": "5990/22",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "Experience": "2 year",
+            "Biography": "",
+            "lstLanguage": [
+                {
+                    "Id": "2",
+                    "Name": "English"
+                },
+                {
+                    "Id": "3",
+                    "Name": "Hindi"
+                }
+            ],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9816563752",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "drneha6674@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901237472228047152",
+                    "LocationDepartmentUid": "060123291155011464",
+                    "LocationDepartmentName": "PHC Naldehra Shimla(Other)",
+                    "LocationUid": "060123294295786326",
+                    "LocationName": "PHC Naldehra Shimla",
+                    "PractitionerProviderUid": "0901235968874006111",
+                    "OrganizationUid": "0401202302186082",
+                    "OrganizationName": "Himachal Pradesh",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE Cum HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Block Mashobra",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 23,
+                    "DistrictDisplay": "SHIMLA",
+                    "StateCode": 2,
+                    "StateDisplay": "Himachal Pradesh",
+                    "CityCode": 181,
+                    "CityDisplay": "SHIMLA   ( RURAL )",
+                    "PostalCode": "171007",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "UId": "0901239851609042949",
+            "Salutation": "Dr.",
+            "Type": "Practitioner",
+            "SubType": "",
+            "FirstName": "Akhil",
+            "MiddleName": "",
+            "LastName": "Katna",
+            "GenderCode": 1,
+            "GenderDisplay": "Male",
+            "DOB": "1990-09-08T00:00:00",
+            "SpecialityCode": 79,
+            "SpecialityDisplay": "General Medicine",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 2,
+            "QualificationDisplay": "MD",
+            "Biography": "",
+            "PlaceOfWork": "SHIMLA",
+            "lstLanguage": [],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9805983874",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "gfcvgv@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901231533815453395",
+                    "LocationDepartmentUid": "060123576959037370",
+                    "LocationDepartmentName": "HUB IGMC Shimla(General Medicine)",
+                    "LocationUid": "060123568767926373",
+                    "LocationName": "HUB IGMC Shimla",
+                    "PractitionerProviderUid": "0901239851609042949",
+                    "OrganizationUid": "0401202302186082",
+                    "OrganizationName": "Himachal Pradesh",
+                    "IsRemoved": false,
+                    "FunctionalType": "HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "HUB IGMC Shimla",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 23,
+                    "DistrictDisplay": "SHIMLA",
+                    "StateCode": 2,
+                    "StateDisplay": "Himachal Pradesh",
+                    "CityCode": 182,
+                    "CityDisplay": "SHIMLA (URBAN)",
+                    "PostalCode": "786890",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "1950073902916423",
+            "Age": 56,
+            "Birthdate": "1968-04-19T00:00:00Z",
+            "FirstName": "Rohit",
+            "LastName": "",
+            "MiddleName": "Kumar",
+            "lstPatientContactDetail": [],
+            "GenderCode": 1,
+            "GenderDisplay": "Male",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "VPO KIARKOTI",
+                    "AddressLine2": "",
+                    "BaseStateCode": 0,
+                    "BaseStateDisplay": null,
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 2,
+                    "StateDisplay": "Himachal Pradesh",
+                    "DistrictCode": 23,
+                    "DistrictDisplay": "Shimla",
+                    "CityCode": 181,
+                    "CityDisplay": "Shimla ( Rural )",
+                    "PostalCode": "171007",
+                    "BlockCode": 189,
+                    "BlockDisplay": "Mashobra",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "0901235968874006111",
+            "LocationUId": "060123294295786326",
+            "OrganizationUId": "0401202302186082",
+            "ABHAStatus": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 56160,
+            "LocationUid": "060123294295786326",
+            "Name": "PHC Naldehra Shimla",
+            "OrganizationUid": "0401202302186082",
+            "TypeCode": 2,
+            "TypeDisplay": "SPOKE Cum HUB",
+            "Priority": 197150,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "Shimla",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 2,
+            "StateDisplay": "Himachal Pradesh",
+            "DistrictCode": 23,
+            "DistrictDisplay": "SHIMLA",
+            "CityCode": 181,
+            "CityDisplay": "Shimla ( Rural )",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "170001"
+        },
+        "SentToLocationDetailModel": {
+            "Id": 39807,
+            "LocationUid": "060123568767926373",
+            "Name": "HUB IGMC Shimla",
+            "OrganizationUid": "0401202302186082",
+            "TypeCode": 1,
+            "TypeDisplay": "HUB",
+            "Priority": 12000,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "Hub IGMC",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 2,
+            "StateDisplay": "Himachal Pradesh",
+            "DistrictCode": 23,
+            "DistrictDisplay": "SHIMLA",
+            "CityCode": 182,
+            "CityDisplay": "SHIMLA (URBAN)",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "160071"
+        },
+        "lstEncounterHealthRecords": [],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": ""
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "P/H/O stroke or right hemiparesis\n",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [
+                {
+                    "RxCode": 3500303012,
+                    "RxSnomedCode": 0,
+                    "RxDisplay": "Telmisartan 40 mg oral tablet",
+                    "DosageType": "Tablet",
+                    "DosageValue": "1",
+                    "Durationtype": "Year(s)",
+                    "Durationvalue": "2",
+                    "Frequency": "BD"
+                }
+            ],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "Enter Manually ",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [
+                {
+                    "TestCode": 2,
+                    "TestName": "BLOOD_PRESSURE",
+                    "TestDisplayName": "Blood Pressure (Sys/Dia)",
+                    "TestResult": "140mmHg / 98mmHg",
+                    "TestUnit": "(mmHg/mmHg)",
+                    "Remarks": null,
+                    "FileType": null,
+                    "Type": null,
+                    "VendorId": 0,
+                    "DeviceName": "Enter Manually",
+                    "IsUploaded": true
+                }
+            ],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "BP remains 140/92 to 158/99 from last 2 year\n Pt is with hemiparesis \nCan i add chlorthiazide 12.5 mg ??"
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1958079122652286",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T11:58:08.4687137+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901230746396904449"
+            },
+            {
+                "EncounterUId": "1958079122652286",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T12:07:13.5875813+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901239851609042949"
+            },
+            {
+                "EncounterUId": "1958079122652286",
+                "Message": "Call Initiated",
+                "Time": "2024-04-19T12:07:13.889163+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "0901239851609042949"
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1950078706938218",
+            "StartDatetime": "2024-04-19 11:50:08.623977",
+            "EndDatetime": "2024-04-19 11:50:34.674760",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Headache",
+                    "Code": "25064002",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Duration",
+                            "Value": "Many years",
+                            "Code": "162440001"
+                        },
+                        {
+                            "Tag": "Onset",
+                            "Value": "Slowly",
+                            "Code": "61751001"
+                        },
+                        {
+                            "Tag": "When in the day",
+                            "Value": "All Day",
+                            "Code": "123027009"
+                        },
+                        {
+                            "Tag": "Intensity of Headache",
+                            "Value": "Mild / Dull Headache",
+                            "Code": "40196000 - 25064002"
+                        }
+                    ]
+                },
+                {
+                    "Alias": "High B.P",
+                    "Code": "38341003",
+                    "BodyPart": "",
+                    "Attributes": []
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1958079122652286/Prescription.pdf",
+        "eCollabCaseDetails": false,
+        "ConsultationScore": 43.3,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "966099",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            },
+            {
+                "eCollabReferenceId": "175069",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "2",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cCXXgQBAAAACg==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cCXXgQBAAAACg==/",
+        "_etag": "\"0500a6b9-0000-2000-0000-662211190000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713508633
+    },
+    {
+        "id": "1954226720502819",
+        "SentByUid": "1755107112734874",
+        "PKey": "1954226720502819",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T13:03:41.4848362+05:30",
+        "StartDate": "2024-04-19T13:03:41.4848362+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "1755107112734874",
+            "Salutation": "Mrs",
+            "Type": "Provider",
+            "SubType": "CHO",
+            "FirstName": "Meena",
+            "MiddleName": "",
+            "LastName": "kumari",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1994-11-02T00:00:00",
+            "SpecialityCode": 0,
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 5,
+            "QualificationDisplay": "B.Sc",
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "7999399366",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "1994mkbabua2@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "1703231903829645",
+                    "LocationDepartmentUid": "0",
+                    "LocationDepartmentName": "",
+                    "LocationUid": "2802233301033554",
+                    "LocationName": "SC Lalanpur Mau",
+                    "PractitionerProviderUid": "1755107112734874",
+                    "OrganizationUid": "2812202209767694",
+                    "OrganizationName": "Uttar Pradesh",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "SC Lalanpur Mau",
+                    "AddressLine2": "SC Lalanpur Mau",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 168,
+                    "DistrictDisplay": "Mau",
+                    "StateCode": 9,
+                    "StateDisplay": "Uttar Pradesh",
+                    "CityCode": 972,
+                    "CityDisplay": "Madhuban",
+                    "PostalCode": "275101",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "IsMobileVerified": true,
+            "IsEmailVerified": true
+        },
+        "SentTo": {
+            "UId": "0901231615796982762",
+            "Salutation": "Dr.",
+            "Type": "Practitioner",
+            "FirstName": "Anil",
+            "MiddleName": "Kumar",
+            "LastName": "Umar",
+            "GenderCode": 1,
+            "GenderDisplay": "Male",
+            "DOB": "1981-08-01T00:00:00",
+            "SpecialityCode": 75,
+            "SpecialityDisplay": "Medical Officer",
+            "MCINumber": "61302",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "Experience": "9 year",
+            "Biography": "",
+            "PlaceOfWork": "dohrighat",
+            "lstLanguage": [
+                {
+                    "Id": "3",
+                    "Name": "Hindi"
+                }
+            ],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "7388679698",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "ANILUMAR1187@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901234584486332036",
+                    "LocationDepartmentUid": "060123274118474524",
+                    "LocationDepartmentName": "PHC GONTHA MAU(Medical Officer)",
+                    "LocationUid": "060123278801540913",
+                    "LocationName": "PHC GONTHA MAU",
+                    "PractitionerProviderUid": "0901231615796982762",
+                    "OrganizationUid": "2812202209767694",
+                    "OrganizationName": "Uttar Pradesh",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE Cum HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "PHC GONTHA MAU",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 168,
+                    "DistrictDisplay": "Mau",
+                    "StateCode": 9,
+                    "StateDisplay": "Uttar Pradesh",
+                    "CityCode": 971,
+                    "CityDisplay": "Ghosi",
+                    "PostalCode": "275101",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "1900129070202169",
+            "Age": 45,
+            "Birthdate": "1979-04-19T00:00:00Z",
+            "FirstName": "Shila",
+            "LastName": "",
+            "MiddleName": "",
+            "lstPatientContactDetail": [],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Lalanpur ",
+                    "AddressLine2": "",
+                    "BaseStateCode": 0,
+                    "BaseStateDisplay": null,
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 9,
+                    "StateDisplay": "Uttar Pradesh",
+                    "DistrictCode": 168,
+                    "DistrictDisplay": "Mau",
+                    "CityCode": 972,
+                    "CityDisplay": "Madhuban",
+                    "PostalCode": "221603",
+                    "BlockCode": 1381,
+                    "BlockDisplay": "Fatehpur Madaun",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "1755107112734874",
+            "LocationUId": "2802233301033554",
+            "OrganizationUId": "2812202209767694",
+            "ABHAStatus": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 178214,
+            "LocationUid": "2802233301033554",
+            "Name": "SC Lalanpur Mau",
+            "OrganizationUid": "2812202209767694",
+            "TypeCode": 3,
+            "TypeDisplay": "SPOKE",
+            "Priority": 2188300,
+            "ImagePath": "",
+            "LocationContactDetail": "[{\"Id\": 475, \"LocationUid\": \"2802233301033554\", \"ContactPointUse\": \"Work\", \"ContactPointType\": \"Email\", \"ContactPointValue\": \"sclalanpur@gmail.com\", \"ContactPointStatus\": \"true\"}]",
+            "locationContactDetailMappingModel": [
+                {
+                    "Id": 475,
+                    "LocationUid": "2802233301033554",
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "sclalanpur@gmail.com",
+                    "ContactPointStatus": true,
+                    "CreatedByType": null,
+                    "CreatedBy": "1",
+                    "CreatedDate": "2024-04-19T13:03:41.8002919+05:30",
+                    "ModifiedBy": "1",
+                    "ModifiedDate": "2024-04-19T13:03:41.8002919+05:30",
+                    "Source": 1
+                }
+            ],
+            "LocationSubTypeCode": 99,
+            "LocationSubTypeDisplay": "SubCentre",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "  ",
+            "AddressLine2": "Lalanpur",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 9,
+            "StateDisplay": "Uttar Pradesh",
+            "DistrictCode": 168,
+            "DistrictDisplay": "Mau",
+            "CityCode": 971,
+            "CityDisplay": "Ghosi",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "BlockCode": 1381,
+            "BlockDisplay": "Fatehpur Madaun",
+            "SecretariatCode": 0,
+            "SecretariatDisplay": "",
+            "TalukaCode": 972,
+            "TalukaDisplay": "Madhuban",
+            "PostalCode": "221603",
+            "RegionIndicator": 1,
+            "NIN": "4168581488"
+        },
+        "SentToLocationDetailModel": {
+            "Id": 173120,
+            "LocationUid": "060123278801540913",
+            "Name": "PHC GONTHA MAU",
+            "OrganizationUid": "2812202209767694",
+            "TypeCode": 2,
+            "TypeDisplay": "SPOKE Cum HUB",
+            "Priority": 1933800,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "PHC GONTHA MAU",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 9,
+            "StateDisplay": "Uttar Pradesh",
+            "DistrictCode": 168,
+            "DistrictDisplay": "MAU",
+            "CityCode": 971,
+            "CityDisplay": "GHOSI",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "BlockCode": 1380,
+            "BlockDisplay": "Dohri Ghat",
+            "TalukaCode": 0,
+            "TalukaDisplay": "",
+            "PostalCode": "275101"
+        },
+        "lstEncounterHealthRecords": [],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": "No"
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "No",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [
+                {
+                    "Code": "129125009",
+                    "SnomedCode": "129125009",
+                    "Name": "Medical Treatment"
+                }
+            ],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [
+                {
+                    "RxCode": 3500545013,
+                    "RxSnomedCode": 0,
+                    "RxDisplay": "Paracetamol 500 mg oral tablet",
+                    "DosageType": "Tablet",
+                    "DosageValue": "1",
+                    "Durationtype": "Day(s)",
+                    "Durationvalue": "3",
+                    "Frequency": "BD"
+                }
+            ],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "Enter Manually ",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [
+                {
+                    "TestCode": 1,
+                    "TestName": "TEMPERATURE",
+                    "TestDisplayName": "Temperature",
+                    "TestResult": "99",
+                    "TestUnit": "°F",
+                    "Remarks": null,
+                    "FileType": null,
+                    "Type": null,
+                    "VendorId": 0,
+                    "DeviceName": "Enter Manually",
+                    "IsUploaded": true
+                }
+            ],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "Fever"
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T12:54:23.260151+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "1020145959159622"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Initiated",
+                "Time": "2024-04-19T12:54:23.6306284+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "1020145959159622"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Auto Busy",
+                "Time": "2024-04-19T12:54:23.9127929+05:30",
+                "EncounterStatus": "CallAutoDeny",
+                "PractitionerUId": "1020145959159622"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T12:55:46.1390379+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Initiated",
+                "Time": "2024-04-19T12:55:46.3514645+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Not Accepted",
+                "Time": "2024-04-19T12:56:17.6965438+05:30",
+                "EncounterStatus": "CallAutoDeny",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T12:57:27.6923721+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Initiated",
+                "Time": "2024-04-19T12:57:28.0122627+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Not Accepted",
+                "Time": "2024-04-19T12:57:59.3200371+05:30",
+                "EncounterStatus": "CallAutoDeny",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T13:03:21.7321363+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Initiated",
+                "Time": "2024-04-19T13:03:22.2755417+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Auto Busy",
+                "Time": "2024-04-19T13:03:22.4871941+05:30",
+                "EncounterStatus": "CallAutoDeny",
+                "PractitionerUId": "1018450209170930"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T13:03:42.1240273+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901231615796982762"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Initiated",
+                "Time": "2024-04-19T13:03:42.404508+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "0901231615796982762"
+            },
+            {
+                "EncounterUId": "1954226720502819",
+                "Message": "Call Not Accepted",
+                "Time": "2024-04-19T13:04:14.1533316+05:30",
+                "EncounterStatus": "CallAutoDeny",
+                "PractitionerUId": "0901231615796982762"
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1952268825041311",
+            "StartDatetime": "2024-04-19 12:52:28.122589",
+            "EndDatetime": "2024-04-19 12:52:49.202710",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Fever",
+                    "Code": "386661006",
+                    "BodyPart": "",
+                    "Attributes": []
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1954226720502819/Prescription.pdf",
+        "eCollabCaseDetails": false,
+        "ConsultationScore": 33.3,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "265499",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cAiaUoBAAAAAA==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cAiaUoBAAAAAA==/",
+        "_etag": "\"0d000110-0000-2000-0000-66221e760000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713512054
+    },
+    {
+        "id": "1932247682725252",
+        "SentByUid": "0901239501914402004",
+        "PKey": "1932247682725252",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T12:32:24.5806911+05:30",
+        "StartDate": "2024-04-19T12:32:24.5806911+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "0901239501914402004",
+            "Salutation": "Dr.",
+            "Type": "Practitioner",
+            "FirstName": "Rubina",
+            "MiddleName": "",
+            "LastName": "M",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1995-05-28T00:00:00",
+            "SpecialityCode": 75,
+            "SpecialityDisplay": "Medical Officer",
+            "MCINumber": "9848438766",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "Experience": "2 year",
+            "Biography": "",
+            "PlaceOfWork": "HWC Koheda Ranga Reddy",
+            "lstLanguage": [
+                {
+                    "Id": "2",
+                    "Name": "English"
+                }
+            ],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9848438766",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "ms.rubinahussain@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901230998351100085",
+                    "LocationDepartmentUid": "060123366240872227",
+                    "LocationDepartmentName": "HWC Koheda RANGA REDDY(Medical Officer)",
+                    "LocationUid": "060123365519474277",
+                    "LocationName": "HWC Koheda RANGA REDDY",
+                    "PractitionerProviderUid": "0901239501914402004",
+                    "OrganizationUid": "0401202302757601",
+                    "OrganizationName": "Telangana",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE Cum HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Ranga Reddy",
+                    "AddressLine2": "Koheda, Near Venugopalaswamy temple",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 518,
+                    "DistrictDisplay": "RANGA REDDY",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "CityCode": 6319,
+                    "CityDisplay": "ABDULLAPURMET",
+                    "PostalCode": "500511",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "GenderCode": 0,
+            "SpecialityCode": 0,
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "1911340288099704",
+            "Age": 68,
+            "Birthdate": "1956-01-01T00:00:00Z",
+            "FirstName": "Arla ",
+            "LastName": "Garu ",
+            "MiddleName": "Yadamma ",
+            "lstPatientContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9492508864",
+                    "ContactPointStatus": true
+                }
+            ],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Koheda ",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "DistrictCode": 518,
+                    "DistrictDisplay": "Ranga Reddy",
+                    "CityCode": 4525,
+                    "CityDisplay": "Hayathnagar",
+                    "PostalCode": "501511",
+                    "BlockCode": 7299,
+                    "BlockDisplay": "Abdullapurmet",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "0901239501914402004",
+            "LocationUId": "060123365519474277",
+            "OrganizationUId": "0401202302757601",
+            "ABHAStatus": 0,
+            "ABHAType": "NA",
+            "ABHATypeCode": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 48102,
+            "LocationUid": "060123365519474277",
+            "Name": "HWC Koheda RANGA REDDY",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 2,
+            "TypeDisplay": "SPOKE Cum HUB",
+            "Priority": 101750,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "HWC Koheda Ranga Reddy",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 518,
+            "DistrictDisplay": "Ranga Reddy",
+            "CityCode": 6319,
+            "CityDisplay": "ABDULLAPURMET",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "500074",
+            "HFRRegistered": false
+        },
+        "SentToLocationDetailModel": {
+            "Id": 127828,
+            "LocationUid": "060123243066483266",
+            "Name": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 1,
+            "TypeDisplay": "HUB",
+            "Priority": 1100800,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 507,
+            "DistrictDisplay": "HYDERABAD",
+            "CityCode": 4502,
+            "CityDisplay": "AMBERPET",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "500003",
+            "HFRRegistered": false
+        },
+        "lstEncounterHealthRecords": [
+            {
+                "FileName": "1000253038.jpg",
+                "FilePath": "/esanjeevani-docs/encounter-docs/1932247682725252/1000253038.jpg",
+                "FileExt": "image/jpeg",
+                "BookingNumber": null,
+                "DocumentType": "OP Consultation",
+                "DocumentCode": "371530004",
+                "recordType": "0",
+                "recordId": "0"
+            },
+            {
+                "FileName": "1000253040.jpg",
+                "FilePath": "/esanjeevani-docs/encounter-docs/1932247682725252/1000253040.jpg",
+                "FileExt": "image/jpeg",
+                "BookingNumber": null,
+                "DocumentType": "Diagnostic Report",
+                "DocumentCode": "721981007",
+                "recordType": "0",
+                "recordId": "0"
+            }
+        ],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [
+                {
+                    "AllergyCode": "2577659018",
+                    "AllergySnomedCode": "2577659018",
+                    "AllergyDisplay": "Allergic reaction to flour dust",
+                    "IsStill": false,
+                    "Notes": "",
+                    "SeverityTypeCode": 2,
+                    "SeverityTypeDisplay": "Moderate",
+                    "DurationCode": 5,
+                    "DurationDisplay": "More than two years"
+                }
+            ],
+            "AdditionalAllergy": ""
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "Known asthma on medication since 10 years on steroids.",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [
+                {
+                    "RxCode": 3680886012,
+                    "RxSnomedCode": 0,
+                    "RxDisplay": "Montelukast (as montelukast sodium) 10 mg oral tablet",
+                    "DosageType": "Tablet",
+                    "DosageValue": "1",
+                    "Durationtype": "Month(s)",
+                    "Durationvalue": "1",
+                    "Frequency": "OD"
+                },
+                {
+                    "RxCode": 3699316016,
+                    "RxSnomedCode": 0,
+                    "RxDisplay": "Formoterol fumarate dihydrate 6 microgram/actuation powder for inhalation",
+                    "DosageType": "Puff(s)/Application(s)",
+                    "DosageValue": "1",
+                    "Durationtype": "Month(s)",
+                    "Durationvalue": "1",
+                    "Frequency": "OD"
+                },
+                {
+                    "RxCode": 3699304010,
+                    "RxSnomedCode": 0,
+                    "RxDisplay": "Budesonide 200 microgram/actuation powder for inhalation",
+                    "DosageType": "Puff(s)/Application(s)",
+                    "DosageValue": "1",
+                    "Durationtype": "Month(s)",
+                    "Durationvalue": "1",
+                    "Frequency": "OD"
+                }
+            ],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null,
+            "IsShippingRequired": false
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "Enter Manually ",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [
+                {
+                    "TestCode": 2,
+                    "TestName": "BLOOD_PRESSURE",
+                    "TestDisplayName": "Blood Pressure (Sys/Dia)",
+                    "TestResult": "120mmHg / 80mmHg",
+                    "TestUnit": "(mmHg/mmHg)",
+                    "Remarks": null,
+                    "FileType": null,
+                    "Type": null,
+                    "VendorId": 0,
+                    "DeviceName": "Enter Manually",
+                    "IsUploaded": true
+                },
+                {
+                    "TestCode": 5,
+                    "TestName": "HEIGHT",
+                    "TestDisplayName": "Height",
+                    "TestResult": "150",
+                    "TestUnit": "cms",
+                    "Remarks": null,
+                    "FileType": null,
+                    "Type": null,
+                    "VendorId": 0,
+                    "DeviceName": "Enter Manually",
+                    "IsUploaded": true
+                },
+                {
+                    "TestCode": 4,
+                    "TestName": "WEIGHT",
+                    "TestDisplayName": "Weight",
+                    "TestResult": "40",
+                    "TestUnit": "Kgs",
+                    "Remarks": null,
+                    "FileType": null,
+                    "Type": null,
+                    "VendorId": 0,
+                    "DeviceName": "Enter Manually",
+                    "IsUploaded": true
+                }
+            ],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "Add to the list - Pedal oedema since 20 days "
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1932247682725252",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T12:32:25.4826518+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": ""
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1923225701290467",
+            "StartDatetime": "2024-04-19 12:23:23.316544",
+            "EndDatetime": "2024-04-19 12:24:23.531619",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Add to the list - Pedal oedema since 20 days ",
+                    "Code": "",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Default Symptom - Description",
+                            "Value": "Pedal oedema since 20 days",
+                            "Code": ""
+                        },
+                        {
+                            "Tag": "Default Symptom - Duration",
+                            "Value": "Recently",
+                            "Code": "162437001"
+                        },
+                        {
+                            "Tag": "Default Symptom - Onset",
+                            "Value": "Gradual",
+                            "Code": "61751001"
+                        }
+                    ]
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1932247682725252/Prescription.pdf",
+        "ConsultationScore": 48.3,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "880713",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cA6ElMBAAAACA==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cA6ElMBAAAACA==/",
+        "_etag": "\"0c009500-0000-2000-0000-662217010000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713510145
+    },
+    {
+        "id": "1934268728501968",
+        "SentByUid": "1416481775016973",
+        "PKey": "1934268728501968",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T11:34:26.8557319+05:30",
+        "StartDate": "2024-04-19T11:34:26.8557319+05:30",
+        "Source": "2",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "1416481775016973",
+            "Salutation": "Mrs",
+            "Type": "Provider",
+            "SubType": "MLHP",
+            "FirstName": "ANJALY",
+            "MiddleName": "K",
+            "LastName": "MOHANAN",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1988-09-22T18:30:00Z",
+            "SpecialityCode": 0,
+            "QualificationCode": 4,
+            "QualificationDisplay": "Other",
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "6235746903",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "anjalykmohanan2020@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "1417451044584993",
+                    "LocationDepartmentUid": "0",
+                    "LocationDepartmentName": "",
+                    "LocationUid": "060123542641013179",
+                    "LocationName": "FHC THRIKKALANGODE MALAPPURAM",
+                    "PractitionerProviderUid": "1416481775016973",
+                    "OrganizationUid": "0401202305878206",
+                    "OrganizationName": "Kerala",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "FHC Thrikkalangode, Manhapatta PO",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 562,
+                    "DistrictDisplay": "Malappuram",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "CityCode": 5642,
+                    "CityDisplay": "Nilambur",
+                    "PostalCode": "676123",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "UId": "0603234505188439",
+            "Salutation": "",
+            "Type": "Practitioner",
+            "FirstName": "JISS",
+            "MiddleName": "ELIZABETH",
+            "LastName": "SEBASTIAN",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1985-01-06T08:00:00Z",
+            "SpecialityCode": 10,
+            "SpecialityDisplay": "Dermatology",
+            "MCINumber": "TCMC42247",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": "/esanjeevani-docs/esanjeevani-practitionar-docs/0603234505188439/Signature/jiss sign.png",
+                "SignatureImageName": "jiss sign.png",
+                "SignatureImageType": "image/png"
+            },
+            "QualificationCode": 2,
+            "QualificationDisplay": "MD",
+            "Experience": "2 year",
+            "Biography": "",
+            "PlaceOfWork": "Ernakulam",
+            "lstLanguage": [
+                {
+                    "Id": "2",
+                    "Name": "English"
+                },
+                {
+                    "Id": "13",
+                    "Name": "Malayalam"
+                }
+            ],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9895868279",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "jiss6185@yahoo.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0603231501940094",
+                    "LocationDepartmentUid": "060123328412710965",
+                    "LocationDepartmentName": "HUB STATE KERALA(Dermatology)",
+                    "LocationUid": "060123314338544068",
+                    "LocationName": "HUB STATE KERALA",
+                    "PractitionerProviderUid": "0603234505188439",
+                    "OrganizationUid": "0401202305878206",
+                    "OrganizationName": "Kerala",
+                    "IsRemoved": false,
+                    "FunctionalType": "HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Office of the District Programme Manager, Arogyakeralam(NRHM",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 565,
+                    "DistrictDisplay": "Thiruvananthapuram",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "CityCode": 5691,
+                    "CityDisplay": "Thiruvananthapuram",
+                    "PostalCode": "692024",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": true,
+            "IsEmailVerified": true
+        },
+        "PatientDetailModel": {
+            "id": "1926438362695570",
+            "Age": 20,
+            "Birthdate": "2004-04-19T00:00:00",
+            "FirstName": "Sreekutti",
+            "LastName": "",
+            "MiddleName": "P",
+            "lstPatientContactDetail": [],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "mannamparambil",
+                    "AddressLine2": null,
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "DistrictCode": 562,
+                    "DistrictDisplay": "Malappuram",
+                    "CityCode": 5641,
+                    "CityDisplay": "Ernad",
+                    "PostalCode": "676123",
+                    "BlockCode": 6046,
+                    "BlockDisplay": "Wandoor",
+                    "MandalType": "R",
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "1416481775016973",
+            "LocationUId": "060123542641013179",
+            "OrganizationUId": "0401202305878206",
+            "ABHANumber": "",
+            "ABHAAddress": "",
+            "ABHAStatus": 0,
+            "ABHATypeCode": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 44853,
+            "LocationUid": "060123542641013179",
+            "Name": "FHC THRIKKALANGODE MALAPPURAM",
+            "OrganizationUid": "0401202305878206",
+            "TypeCode": 3,
+            "TypeDisplay": "SPOKE",
+            "Priority": 64500,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "FHC THRIKKALANGODE MALAPPURAM",
+            "AddressLine2": "hostel",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 32,
+            "StateDisplay": "Kerala",
+            "DistrictCode": 562,
+            "DistrictDisplay": "MALAPPURAM",
+            "CityCode": 5941,
+            "CityDisplay": "KONDOTTY",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "620680",
+            "HFRRegistered": false
+        },
+        "SentToLocationDetailModel": {
+            "Id": 52193,
+            "LocationUid": "060123314338544068",
+            "Name": "HUB STATE KERALA",
+            "OrganizationUid": "0401202305878206",
+            "TypeCode": 1,
+            "TypeDisplay": "HUB",
+            "Priority": 149100,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "HUB STATE KERALA",
+            "AddressLine2": "Office of the District Programme Manager, Arogyakeralam(NRHM",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 32,
+            "StateDisplay": "Kerala",
+            "DistrictCode": 565,
+            "DistrictDisplay": "THIRUVANANTHAPURAM",
+            "CityCode": 5691,
+            "CityDisplay": "THIRUVANANTHAPURAM",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "695014",
+            "HFRRegistered": false
+        },
+        "lstEncounterHealthRecords": [
+            {
+                "FileName": "IMG_20240419_112357.jpg",
+                "FilePath": "/esanjeevani-docs/encounter-docs/1934268728501968/IMG_20240419_112357.jpg",
+                "FileExt": "image/jpg",
+                "BookingNumber": "",
+                "DocumentType": "Record artifact",
+                "DocumentCode": "419891008",
+                "recordType": null,
+                "recordId": null
+            }
+        ],
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [],
+            "lstFamilyHistory": []
+        },
+        "EncounterAdditionalModel": {
+            "Remarks": "",
+            "PhysicalExamination": "",
+            "SystemicExamination": "",
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "wart pesent on whole body since 1month "
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1934268728501968",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T11:34:27.4783465+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0603234505188439"
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1926495786230574",
+            "StartDatetime": "2024-04-19 11:29:16.770736",
+            "EndDatetime": "2024-04-19 11:31:13.270169",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Add to the list - Warts present on whole body",
+                    "Code": "",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Default Symptom - Description",
+                            "Value": "Warts present on whole body especially neck under arms breast aream",
+                            "Code": ""
+                        },
+                        {
+                            "Tag": "Default Symptom - Duration",
+                            "Value": "Some month",
+                            "Code": "162439003"
+                        },
+                        {
+                            "Tag": "Default Symptom - Onset",
+                            "Value": "Sudden",
+                            "Code": "385315009"
+                        }
+                    ]
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "Advice": "",
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1934268728501968/Prescription.pdf",
+        "ConsultationScore": 25,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "625044",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            },
+            {
+                "eCollabReferenceId": "611889",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "2",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cBM3wkBAAAABg==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cBM3wkBAAAABg==/",
+        "_etag": "\"0a003022-0000-2000-0000-6622096b0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713506667
+    },
+    {
+        "id": "1924124057662396",
+        "SentByUid": "090123280556770734",
+        "PKey": "1924124057662396",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T11:24:12.3962559+05:30",
+        "StartDate": "2024-04-19T11:24:12.3962559+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "090123280556770734",
+            "Salutation": "Dr.",
+            "Type": "Practitioner",
+            "SubType": "",
+            "FirstName": "RAJKUMAR",
+            "MiddleName": "",
+            "LastName": "PATLOLA",
+            "GenderCode": 1,
+            "GenderDisplay": "Male",
+            "DOB": "1986-10-10T00:00:00",
+            "SpecialityCode": 75,
+            "SpecialityDisplay": "Medical Officer",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "Biography": "",
+            "PlaceOfWork": "SANGAREDDY",
+            "lstLanguage": [],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9989103030",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "phcdigwal@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901235099330653773",
+                    "LocationDepartmentUid": "060123433227785044",
+                    "LocationDepartmentName": "PHC DIGWAL SANGAREDDY(Medical Officer)",
+                    "LocationUid": "060123436197488366",
+                    "LocationName": "PHC DIGWAL SANGAREDDY",
+                    "PractitionerProviderUid": "090123280556770734",
+                    "OrganizationUid": "0401202302757601",
+                    "OrganizationName": "Telangana",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE Cum HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "D. NO. 17 STREET NATIONAL HIGHWAY 65",
+                    "AddressLine2": "BESIDE GOVT PRIMARY SCHOOL DIGWAL V,  KOHIR M",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 691,
+                    "DistrictDisplay": "SANGAREDDY",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "CityCode": 4474,
+                    "CityDisplay": "ZAHIRABAD",
+                    "PostalCode": "502321",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "GenderCode": 0,
+            "SpecialityCode": 0,
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "1623359774771542",
+            "Age": 38,
+            "Birthdate": "1986-04-16T00:00:00Z",
+            "FirstName": "Marthamma",
+            "LastName": "",
+            "MiddleName": "",
+            "lstPatientContactDetail": [],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Giniyarpally",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "DistrictCode": 691,
+                    "DistrictDisplay": "Sangareddy",
+                    "CityCode": 4476,
+                    "CityDisplay": "Jharasangam",
+                    "PostalCode": "502321",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "090123280556770734",
+            "LocationUId": "060123436197488366",
+            "OrganizationUId": "0401202302757601",
+            "lstCompletedEncounter": [
+                "1629108312240526"
+            ],
+            "ABHAStatus": 0,
+            "ABHAType": "NA",
+            "ABHATypeCode": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 61580,
+            "LocationUid": "060123436197488366",
+            "Name": "PHC DIGWAL SANGAREDDY",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 2,
+            "TypeDisplay": "SPOKE Cum HUB",
+            "Priority": 258350,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "DOOR NO.17 STREET NATIONAL HIGWAY NH65",
+            "AddressLine2": "BESIDE GOVT PRIMARY SCHOOL DIGWAL V, KOHIR M",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 691,
+            "DistrictDisplay": "SANGAREDDY",
+            "CityCode": 4474,
+            "CityDisplay": "ZAHIRABAD",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "502321",
+            "HFRRegistered": false
+        },
+        "SentToLocationDetailModel": {
+            "Id": 0,
+            "LocationUid": "",
+            "TypeCode": 0,
+            "Priority": 0,
+            "LocationSubTypeCode": 0,
+            "CountryCode": 0,
+            "StateCode": 0,
+            "DistrictCode": 0,
+            "CityCode": 0,
+            "HFRRegistered": false
+        },
+        "lstEncounterHealthRecords": [
+            {
+                "FileName": "Marthamma.jpeg",
+                "FilePath": "/esanjeevani-docs/encounter-docs/1924124057662396/Marthamma.jpeg",
+                "FileExt": "image/jpeg",
+                "BookingNumber": null,
+                "DocumentType": "Prescription",
+                "DocumentCode": "440545006",
+                "recordType": "0",
+                "recordId": "0"
+            }
+        ],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": ""
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null,
+            "IsShippingRequired": false
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "Periods problem since 2months, Irrigular periods"
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1924124057662396",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T11:24:12.7228136+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": ""
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1915558635969685",
+            "StartDatetime": "2024-04-19 11:15:56.321367",
+            "EndDatetime": "2024-04-19 11:24:06.996863",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Period Problems",
+                    "Code": "276319003",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Duration",
+                            "Value": "1 month",
+                            "Code": "162439003"
+                        },
+                        {
+                            "Tag": "Frequency",
+                            "Value": "More than 35 days",
+                            "Code": "289895005 - 732899009 - 258703001"
+                        },
+                        {
+                            "Tag": "Flow",
+                            "Value": "Normal Flow",
+                            "Code": "237132003"
+                        },
+                        {
+                            "Tag": "Menses Lasts",
+                            "Value": "3-7 days",
+                            "Code": "79605009 - 34001005"
+                        }
+                    ]
+                },
+                {
+                    "Alias": "Stress",
+                    "Code": "73595000",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Duration",
+                            "Value": "1 month",
+                            "Code": "162439003"
+                        },
+                        {
+                            "Tag": "Triggering Factors",
+                            "Value": "Work related Stress",
+                            "Code": "276074009"
+                        }
+                    ]
+                },
+                {
+                    "Alias": "Vomiting",
+                    "Code": "249497008",
+                    "BodyPart": "",
+                    "Attributes": []
+                },
+                {
+                    "Alias": "Headache",
+                    "Code": "25064002",
+                    "BodyPart": "",
+                    "Attributes": []
+                },
+                {
+                    "Alias": "Chest Pain",
+                    "Code": "29857009",
+                    "BodyPart": "",
+                    "Attributes": []
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1924124057662396/Prescription.pdf",
+        "ConsultationScore": 25,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "205888",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            },
+            {
+                "eCollabReferenceId": "991113",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "2",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cCny04BAAAABA==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cCny04BAAAABA==/",
+        "_etag": "\"1300d9c4-0000-2000-0000-662207040000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713506052
+    },
+    {
+        "id": "1941345199050526",
+        "SentByUid": "0901235123903727207",
+        "PKey": "1941345199050526",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T13:51:52.0438788+05:30",
+        "StartDate": "2024-04-19T13:51:52.0438788+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "0901235123903727207",
+            "Salutation": "Dr.",
+            "Type": "Provider",
+            "SubType": "MO",
+            "FirstName": "A JHANSI RANI",
+            "MiddleName": "",
+            "LastName": "A",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1979-01-06T00:00:00",
+            "SpecialityCode": 0,
+            "profileImageModel": {
+                "ProfileImageBase64": "/esanjeevani-docs/esanjeevani-practitionar-docs/0901235123903727207/Profile/file1691045512230.jpg",
+                "ProfileImageName": "file1691045512230.jpg",
+                "ProfileImageType": "image/jpeg"
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "lstLanguage": [],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "7989310844",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "uphcbandlaguda@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901237908220880867",
+                    "LocationDepartmentUid": "060123539571164485",
+                    "LocationDepartmentName": "UPHC BANDLAGUDA HYDERABAD(Medical Officer)",
+                    "LocationUid": "060123522453584343",
+                    "LocationName": "UPHC BANDLAGUDA HYDERABAD",
+                    "PractitionerProviderUid": "0901235123903727207",
+                    "OrganizationUid": "0401202302757601",
+                    "OrganizationName": "Telangana",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE Cum HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "BESIDE GOVT PRIMARY SCHOOL GHOUSE NAGAR BANDLAGUDA",
+                    "AddressLine2": "GHOUSE NAGAR BANDLAGUDA HYDERABAD",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 507,
+                    "DistrictDisplay": "Hyderabad",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "CityCode": 4509,
+                    "CityDisplay": "Bandlaguda",
+                    "PostalCode": "500005",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "UId": "0901237411640068316",
+            "Salutation": "Dr.",
+            "Type": "Practitioner",
+            "FirstName": "M LAXMI SUDHA",
+            "MiddleName": "",
+            "LastName": "MO",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1985-04-15T00:00:00",
+            "SpecialityCode": 10,
+            "SpecialityDisplay": "Dermatology",
+            "MCINumber": "55775",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "Experience": "5 year",
+            "Biography": "",
+            "PlaceOfWork": "Osmania General Hospital",
+            "lstLanguage": [
+                {
+                    "Id": "2",
+                    "Name": "English"
+                },
+                {
+                    "Id": "3",
+                    "Name": "Hindi"
+                },
+                {
+                    "Id": "5",
+                    "Name": "Telugu"
+                }
+            ],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9849617820",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "MLAXMISUDHAMO346@mail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0417399146625739",
+                    "LocationDepartmentUid": "060123246725015593",
+                    "LocationDepartmentName": "OSMANIA GENERAL HOSPITAL HYDERABAD(Dermatology)",
+                    "LocationUid": "060123243066483266",
+                    "LocationName": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+                    "PractitionerProviderUid": "0901237411640068316",
+                    "OrganizationUid": "0401202302757601",
+                    "OrganizationName": "Telangana",
+                    "IsRemoved": false,
+                    "FunctionalType": "HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "afzalgunj",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 507,
+                    "DistrictDisplay": "HYDERABAD",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "CityCode": 4502,
+                    "CityDisplay": "AMBERPET",
+                    "PostalCode": "500003",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "2334083293081468",
+            "Age": 48,
+            "Birthdate": "1976-01-01T00:00:00Z",
+            "FirstName": "Sagar",
+            "LastName": "Rukkamma",
+            "MiddleName": "",
+            "lstPatientContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "7780630853",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "shivasagar78@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "C/O W/O S Hanumanth Rao 18-3-7/A/28/2 Bandlaguda Bandlaguda Bandlaguda",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "DistrictCode": 507,
+                    "DistrictDisplay": "Hyderabad",
+                    "CityCode": 4509,
+                    "CityDisplay": "Bandlaguda",
+                    "PostalCode": "500005",
+                    "BlockCode": 4984,
+                    "BlockDisplay": "Bandlaguda",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "0901235123903727207",
+            "LocationUId": "060123522453584343",
+            "OrganizationUId": "0401202302757601",
+            "ABHANumber": "72-2854-5676-5783",
+            "ABHAAddress": "shivasagar78@abdm",
+            "lstCompletedEncounter": [
+                "2334434408789760",
+                "2636436360127918",
+                "2628085966721432",
+                "2633417485766536"
+            ],
+            "ABHACardPath": {
+                "DocumentBase64": "/esanjeevani-docs/patient-docs/2334083293081468/Card/ABHA_Card_638467904404164125.pdf",
+                "DocumentName": "ABHA_Card_638467904404164125.pdf",
+                "DocumentType": "application/pdf"
+            },
+            "ABHAStatus": 0,
+            "ABHAType": "Demographics",
+            "ABHATypeCode": 2,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 130870,
+            "LocationUid": "060123522453584343",
+            "Name": "UPHC BANDLAGUDA HYDERABAD",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 2,
+            "TypeDisplay": "SPOKE Cum HUB",
+            "Priority": 1146550,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "UPHC BANDLAGUDA HYDERABAD",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 507,
+            "DistrictDisplay": "HYDERABAD",
+            "CityCode": 4502,
+            "CityDisplay": "AMBERPET",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "500001",
+            "HFRRegistered": false
+        },
+        "SentToLocationDetailModel": {
+            "Id": 127828,
+            "LocationUid": "060123243066483266",
+            "Name": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 1,
+            "TypeDisplay": "HUB",
+            "Priority": 1100800,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 507,
+            "DistrictDisplay": "HYDERABAD",
+            "CityCode": 4502,
+            "CityDisplay": "AMBERPET",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "500003",
+            "HFRRegistered": false
+        },
+        "lstEncounterHealthRecords": [
+            {
+                "FileName": "1000377181.jpg",
+                "FilePath": "/esanjeevani-docs/encounter-docs/1941345199050526/1000377181.jpg",
+                "FileExt": "image/jpeg",
+                "BookingNumber": null,
+                "DocumentType": "Prescription",
+                "DocumentCode": "440545006",
+                "recordType": "0",
+                "recordId": "0"
+            }
+        ],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": ""
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null,
+            "IsShippingRequired": false
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "Allergy"
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1941345199050526",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T13:41:34.8748106+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": ""
+            },
+            {
+                "EncounterUId": "1941345199050526",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T13:44:15.2987417+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901237411640068316"
+            },
+            {
+                "EncounterUId": "1941345199050526",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T13:51:52.7953212+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901237411640068316"
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1932085383603794",
+            "StartDatetime": "2024-04-19 13:32:09.706158",
+            "EndDatetime": "2024-04-19 13:33:44.524087",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Allergy",
+                    "Code": "390952000",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Duration",
+                            "Value": "1-2 weeks",
+                            "Code": "162438006"
+                        },
+                        {
+                            "Tag": "When in the day",
+                            "Value": "All Day",
+                            "Code": "123027009"
+                        },
+                        {
+                            "Tag": "Aggravating Factors",
+                            "Value": "Air Pollution",
+                            "Code": "102413006"
+                        },
+                        {
+                            "Tag": "Relieving Factors",
+                            "Value": "Medication",
+                            "Code": "405177001"
+                        }
+                    ]
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1941345199050526/Prescription.pdf",
+        "ConsultationScore": 35,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "470292",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cArOVMBAAAACA==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cArOVMBAAAACA==/",
+        "_etag": "\"0e008983-0000-2000-0000-662229a00000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713514912
+    },
+    {
+        "id": "1956338887258206",
+        "SentByUid": "3000523550291665",
+        "PKey": "1956338887258206",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-19T16:47:56.24864+05:30",
+        "StartDate": "2024-04-19T16:47:56.24864+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "3000523550291665",
+            "Salutation": "Mrs",
+            "Type": "Provider",
+            "SubType": "MLHP",
+            "FirstName": "SARITHA",
+            "MiddleName": "",
+            "LastName": "KV",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1990-05-29T18:30:00Z",
+            "SpecialityCode": 0,
+            "QualificationCode": 4,
+            "QualificationDisplay": "Other",
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9567872061",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "sreedharan2910@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "3002237265841163",
+                    "LocationDepartmentUid": "0",
+                    "LocationDepartmentName": "",
+                    "LocationUid": "060123098509695193",
+                    "LocationName": "SC MOKAVOOR KOZHIKODE",
+                    "PractitionerProviderUid": "3000523550291665",
+                    "OrganizationUid": "0401202305878206",
+                    "OrganizationName": "Kerala",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "SC MOKAVOOR",
+                    "AddressLine2": "KOZHIKODE",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 561,
+                    "DistrictDisplay": "Kozhikode",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "CityCode": 5640,
+                    "CityDisplay": "Kozhikode",
+                    "PostalCode": "673611",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "UId": "0901239655720884275",
+            "Salutation": "Dr.",
+            "Type": "Practitioner",
+            "FirstName": "Tresy",
+            "MiddleName": "",
+            "LastName": "Jose",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1992-09-14T00:00:00",
+            "SpecialityCode": 10,
+            "SpecialityDisplay": "Dermatology",
+            "MCINumber": "58817",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": "/esanjeevani-docs/esanjeevani-practitionar-docs/0901239655720884275/Signature/sign.jpg",
+                "SignatureImageName": "sign.jpg",
+                "SignatureImageType": "image/jpeg"
+            },
+            "QualificationCode": 2,
+            "QualificationDisplay": "MD",
+            "Experience": "3 year",
+            "Biography": "",
+            "PlaceOfWork": "THIRUVANANTHAPURAM",
+            "lstLanguage": [
+                {
+                    "Id": "2",
+                    "Name": "English"
+                }
+            ],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9995070262",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "tresyjosekl@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901231066440044794",
+                    "LocationDepartmentUid": "060123328412710965",
+                    "LocationDepartmentName": "HUB STATE KERALA(Dermatology)",
+                    "LocationUid": "060123314338544068",
+                    "LocationName": "HUB STATE KERALA",
+                    "PractitionerProviderUid": "0901239655720884275",
+                    "OrganizationUid": "0401202305878206",
+                    "OrganizationName": "Kerala",
+                    "IsRemoved": false,
+                    "FunctionalType": "HUB"
+                },
+                {
+                    "LocationDepartmentPractitionerUid": "0716169022347411",
+                    "LocationDepartmentUid": "0707324562544213",
+                    "LocationDepartmentName": "General or Covid or PostCovid eSanjeevaniOPD Kerala(Dermatology)",
+                    "LocationUid": "1242236005059692",
+                    "LocationName": "General or Covid or PostCovid eSanjeevaniOPD Kerala",
+                    "PractitionerProviderUid": "0901239655720884275",
+                    "OrganizationUid": "0401202305878206",
+                    "OrganizationName": "Kerala",
+                    "IsRemoved": false,
+                    "FunctionalType": "OPD"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "KERALA STATE HUB ",
+                    "AddressLine2": "Thiruvananthapuram, Kerala",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 565,
+                    "DistrictDisplay": "THIRUVANANTHAPURAM",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "CityCode": 5691,
+                    "CityDisplay": "THIRUVANANTHAPURAM",
+                    "PostalCode": "695035",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "1953237736393060",
+            "Age": 30,
+            "Birthdate": "1994-04-19T00:00:00Z",
+            "FirstName": "Athira",
+            "LastName": "",
+            "MiddleName": "",
+            "lstPatientContactDetail": [],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Kakkodi",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 32,
+                    "StateDisplay": "Kerala",
+                    "DistrictCode": 561,
+                    "DistrictDisplay": "Kozhikode",
+                    "CityCode": 5640,
+                    "CityDisplay": "Kozhikode",
+                    "PostalCode": "673303",
+                    "BlockCode": 6024,
+                    "BlockDisplay": "Kozhikode",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "3000523550291665",
+            "LocationUId": "060123098509695193",
+            "OrganizationUId": "0401202305878206",
+            "ABHAStatus": 0,
+            "ABHAType": "NA",
+            "ABHATypeCode": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 63581,
+            "LocationUid": "060123098509695193",
+            "Name": "SC MOKAVOOR KOZHIKODE",
+            "OrganizationUid": "0401202305878206",
+            "TypeCode": 3,
+            "TypeDisplay": "SPOKE",
+            "Priority": 280650,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "SC MOKAVOOR KOZHIKODE",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 32,
+            "StateDisplay": "Kerala",
+            "DistrictCode": 561,
+            "DistrictDisplay": "KOZHIKODE",
+            "CityCode": 5640,
+            "CityDisplay": "KOZHIKODE",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "634007",
+            "HFRRegistered": false
+        },
+        "SentToLocationDetailModel": {
+            "Id": 52193,
+            "LocationUid": "060123314338544068",
+            "Name": "HUB STATE KERALA",
+            "OrganizationUid": "0401202305878206",
+            "TypeCode": 1,
+            "TypeDisplay": "HUB",
+            "Priority": 149100,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "HUB STATE KERALA",
+            "AddressLine2": "Office of the District Programme Manager, Arogyakeralam(NRHM",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 32,
+            "StateDisplay": "Kerala",
+            "DistrictCode": 565,
+            "DistrictDisplay": "THIRUVANANTHAPURAM",
+            "CityCode": 5691,
+            "CityDisplay": "THIRUVANANTHAPURAM",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "695014",
+            "HFRRegistered": false
+        },
+        "lstEncounterHealthRecords": [
+            {
+                "FileName": "17135223258375701443787161518494.jpg",
+                "FilePath": "/esanjeevani-docs/encounter-docs/1956338887258206/17135223258375701443787161518494.jpg",
+                "FileExt": "image/jpeg",
+                "BookingNumber": null,
+                "DocumentType": "Record artifact",
+                "DocumentCode": "419891008",
+                "recordType": "0",
+                "recordId": "0"
+            }
+        ],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": ""
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null,
+            "IsShippingRequired": false
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "Burns on hand"
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "1956338887258206",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T15:56:34.5247625+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901239655720884275"
+            },
+            {
+                "EncounterUId": "1956338887258206",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T16:06:21.6638827+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0603234505188439"
+            },
+            {
+                "EncounterUId": "1956338887258206",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T16:21:19.246382+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901239655720884275"
+            },
+            {
+                "EncounterUId": "1956338887258206",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-19T16:47:56.9298316+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901239655720884275"
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "1953290242052316",
+            "StartDatetime": "2024-04-19 15:53:30.205260",
+            "EndDatetime": "2024-04-19 15:54:47.640073",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Add to the list - Burns",
+                    "Code": "",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Default Symptom - Description",
+                            "Value": "Burns over forearm",
+                            "Code": ""
+                        },
+                        {
+                            "Tag": "Default Symptom - Duration",
+                            "Value": "Recently",
+                            "Code": "162437001"
+                        },
+                        {
+                            "Tag": "Default Symptom - Onset",
+                            "Value": "Sudden",
+                            "Code": "385315009"
+                        }
+                    ]
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/1956338887258206/Prescription.pdf",
+        "ConsultationScore": 25,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "907043",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            },
+            {
+                "eCollabReferenceId": "103577",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "2",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cCecFMBAAAACA==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cCecFMBAAAACA==/",
+        "_etag": "\"3200cd04-0000-2000-0000-662252e40000\"",
+        "_attachments": "attachments/",
+        "_ts": 1713525476
+    }
+]

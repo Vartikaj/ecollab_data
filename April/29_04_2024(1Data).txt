@@ -1,0 +1,491 @@
+[
+    {
+        "id": "2917573018240147",
+        "SentByUid": "0901239396835469045",
+        "PKey": "2917573018240147",
+        "Type": "HWC",
+        "StatusCode": 2,
+        "Status": "Draft",
+        "CreatedDate": "2024-04-29T14:00:20.8711365+05:30",
+        "StartDate": "2024-04-29T14:00:20.8711365+05:30",
+        "Source": "1",
+        "DurationTime": 0,
+        "Guardian": "",
+        "SentBy": {
+            "UId": "0901239396835469045",
+            "Salutation": "Dr.",
+            "Type": "Provider",
+            "SubType": "",
+            "FirstName": "NMANIRAM",
+            "MiddleName": "",
+            "LastName": "DEEPTHI",
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "DOB": "1981-12-19T00:00:00",
+            "SpecialityCode": 75,
+            "SpecialityDisplay": "Medical Officer",
+            "MCINumber": "",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 1,
+            "QualificationDisplay": "MBBS",
+            "Biography": "",
+            "lstLanguage": [],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9640296406",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "bdoldbowenpally@gmail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901232238562102241",
+                    "LocationDepartmentUid": "060123343190025007",
+                    "LocationDepartmentName": "BDK WARD OFFICE AT BOWENPALLY MEDCHAL MALKAJGIRI(Medical Officer)",
+                    "LocationUid": "060123331612894100",
+                    "LocationName": "BDK WARD OFFICE AT BOWENPALLY MEDCHAL MALKAJGIRI",
+                    "PractitionerProviderUid": "0901239396835469045",
+                    "OrganizationUid": "0401202302757601",
+                    "OrganizationName": "Telangana",
+                    "IsRemoved": false,
+                    "FunctionalType": "SPOKE Cum HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "BDK WARD OFFICE AT BOWENPALLY MEDCHAL MALKAJGIRI",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 700,
+                    "DistrictDisplay": "MEDCHAL MALKAJGIRI",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "CityCode": 6328,
+                    "CityDisplay": "ALWAL",
+                    "PostalCode": "501401",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": true,
+            "IsEmailVerified": false
+        },
+        "SentTo": {
+            "UId": "0901238657536260359",
+            "Salutation": "Dr.",
+            "Type": "Practitioner",
+            "SubType": "",
+            "FirstName": "KIRAN KUMAR",
+            "MiddleName": "",
+            "LastName": "MO",
+            "GenderCode": 1,
+            "GenderDisplay": "Male",
+            "DOB": "1981-01-06T00:00:00",
+            "SpecialityCode": 10,
+            "SpecialityDisplay": "Dermatology",
+            "MCINumber": "",
+            "profileImageModel": {
+                "ProfileImageBase64": null,
+                "ProfileImageName": null,
+                "ProfileImageType": null
+            },
+            "signatureImageModel": {
+                "SignatureImageBase64": null,
+                "SignatureImageName": null,
+                "SignatureImageType": null
+            },
+            "QualificationCode": 2,
+            "QualificationDisplay": "MD",
+            "Biography": "",
+            "PlaceOfWork": "HYDERABAD",
+            "lstLanguage": [],
+            "lstPractitionerContactDetail": [
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Phone",
+                    "ContactPointValue": "9440107507",
+                    "ContactPointStatus": true
+                },
+                {
+                    "ContactPointUse": "Work",
+                    "ContactPointType": "Email",
+                    "ContactPointValue": "KIRANKUMARMO208@mail.com",
+                    "ContactPointStatus": true
+                }
+            ],
+            "lstLocationDepartmentPractitionerMappingModel": [
+                {
+                    "LocationDepartmentPractitionerUid": "0901231362866806398",
+                    "LocationDepartmentUid": "060123246725015593",
+                    "LocationDepartmentName": "OSMANIA GENERAL HOSPITAL HYDERABAD(Dermatology)",
+                    "LocationUid": "060123243066483266",
+                    "LocationName": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+                    "PractitionerProviderUid": "0901238657536260359",
+                    "OrganizationUid": "0401202302757601",
+                    "OrganizationName": "Telangana",
+                    "IsRemoved": false,
+                    "FunctionalType": "HUB"
+                }
+            ],
+            "lstPractitionerAddresses": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "DistrictCode": 507,
+                    "DistrictDisplay": "HYDERABAD",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "CityCode": 4502,
+                    "CityDisplay": "AMBERPET",
+                    "PostalCode": "500003",
+                    "BlockCode": 0,
+                    "BlockDisplay": null,
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "lstPractitionerResearch": [],
+            "lstPractitionerAward": [],
+            "lstPractitionerExperience": [],
+            "IsMobileVerified": false,
+            "IsEmailVerified": false
+        },
+        "PatientDetailModel": {
+            "id": "2911246441305169",
+            "Age": 36,
+            "Birthdate": "1988-04-29T00:00:00Z",
+            "FirstName": "Lavanya ",
+            "LastName": "",
+            "MiddleName": "",
+            "lstPatientContactDetail": [],
+            "GenderCode": 2,
+            "GenderDisplay": "Female",
+            "lstPatientAddress": [
+                {
+                    "AddressUse": "Work",
+                    "AddressType": "Physical",
+                    "AddressLine1": "Oldbowenpally",
+                    "AddressLine2": "",
+                    "CountryCode": 1,
+                    "CountryDisplay": "India",
+                    "StateCode": 36,
+                    "StateDisplay": "Telangana",
+                    "DistrictCode": 700,
+                    "DistrictDisplay": "Medchal Malkajgiri",
+                    "CityCode": 6327,
+                    "CityDisplay": "Kukatpally",
+                    "PostalCode": "500011",
+                    "BlockCode": 7339,
+                    "BlockDisplay": "Balanagar",
+                    "MandalType": null,
+                    "MandalCode": 0,
+                    "MandalDisplay": null,
+                    "SecretariatCode": 0,
+                    "SecretariatDisplay": null
+                }
+            ],
+            "PUId": "0901239396835469045",
+            "LocationUId": "060123331612894100",
+            "OrganizationUId": "0401202302757601",
+            "ABHAStatus": 0,
+            "ABHAType": "NA",
+            "ABHATypeCode": 0,
+            "isDisability": false,
+            "lstDisabilityModel": []
+        },
+        "SentByLocationDetailModel": {
+            "Id": 132364,
+            "LocationUid": "060123331612894100",
+            "Name": "BDK WARD OFFICE AT BOWENPALLY MEDCHAL MALKAJGIRI",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 2,
+            "TypeDisplay": "SPOKE Cum HUB",
+            "Priority": 1167250,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "BDK WARD OFFICE AT BOWENPALLY MEDCHAL MALKAJGIRI",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 700,
+            "DistrictDisplay": "MEDCHAL MALKAJGIRI",
+            "CityCode": 6328,
+            "CityDisplay": "ALWAL",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "501401",
+            "HFRRegistered": false
+        },
+        "SentToLocationDetailModel": {
+            "Id": 127828,
+            "LocationUid": "060123243066483266",
+            "Name": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+            "OrganizationUid": "0401202302757601",
+            "TypeCode": 1,
+            "TypeDisplay": "HUB",
+            "Priority": 1100800,
+            "ImagePath": "",
+            "locationContactDetailMappingModel": [],
+            "LocationSubTypeCode": 10001,
+            "LocationSubTypeDisplay": "Not Applicable",
+            "AddressUse": "Work",
+            "AddressType": "Both",
+            "AddressLine1": "OSMANIA GENERAL HOSPITAL HYDERABAD",
+            "AddressLine2": "",
+            "CountryCode": 1,
+            "CountryDisplay": "India",
+            "StateCode": 36,
+            "StateDisplay": "Telangana",
+            "DistrictCode": 507,
+            "DistrictDisplay": "HYDERABAD",
+            "CityCode": 4502,
+            "CityDisplay": "AMBERPET",
+            "MandalCode": 0,
+            "MandalDisplay": "",
+            "PostalCode": "500003",
+            "HFRRegistered": false
+        },
+        "lstEncounterHealthRecords": [
+            {
+                "FileName": "1714376762545202327211338705611.jpg",
+                "FilePath": "/esanjeevani-docs/encounter-docs/2917573018240147/1714376762545202327211338705611.jpg",
+                "FileExt": "image/jpeg",
+                "BookingNumber": null,
+                "DocumentType": "Diagnostic Report",
+                "DocumentCode": "721981007",
+                "recordType": "0",
+                "recordId": "0"
+            }
+        ],
+        "EncounterAllergyModel": {
+            "lstAllergyDetailModel": [],
+            "AdditionalAllergy": ""
+        },
+        "EncounterHistoryModel": {
+            "AdditionalPersonalHistory": "",
+            "AdditionalMedicalHistory": "",
+            "AdditionalFamilyHistory": "",
+            "lstPersonalHistory": [],
+            "lstMedicalHistory": [],
+            "lstFamilyHistory": []
+        },
+        "EncounterMedicineModel": {
+            "lstMedicineDetailModel": null,
+            "lstActiveMedicineDetailModel": [],
+            "AdditionalMedicine": null,
+            "AdditionalActiveMedicine": null,
+            "IsShippingRequired": false
+        },
+        "EncounterDiagnosticsModel": {
+            "VendorId": 0,
+            "DeviceName": "",
+            "AdditionalDiagnosis": "",
+            "lstDiagnosticTestModel": [],
+            "DeviceTestsUId": ""
+        },
+        "EncounterClinicalExaminationModel": {
+            "AdditionalClinicalExamination": null,
+            "lstClinicalExaminationModel": []
+        },
+        "EncounterAdditionalModel": {
+            "IsCovid": false,
+            "IsFollowUp": false
+        },
+        "lstEncounterQueryModel": [
+            {
+                "MessageType": 0,
+                "Message": "Skinrash on finger and itching "
+            }
+        ],
+        "lstEncounterJourneyModel": [
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-29T13:17:58.1127755+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-29T13:35:02.1149013+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Call Initiated",
+                "Time": "2024-04-29T13:35:05.9157771+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Call Auto Busy",
+                "Time": "2024-04-29T13:35:08.8196666+05:30",
+                "EncounterStatus": "CallAutoDeny",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-29T13:35:15.8230502+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-29T13:52:45.3549563+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Call Initiated",
+                "Time": "2024-04-29T13:52:48.9000735+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Call Auto Busy",
+                "Time": "2024-04-29T13:52:49.5291083+05:30",
+                "EncounterStatus": "CallAutoDeny",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-29T13:52:55.2839308+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-29T14:00:08.7371782+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Call Initiated",
+                "Time": "2024-04-29T14:00:10.5828023+05:30",
+                "EncounterStatus": "CallInitiate",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Call Auto Busy",
+                "Time": "2024-04-29T14:00:13.8951113+05:30",
+                "EncounterStatus": "CallAutoDeny",
+                "PractitionerUId": "0901238657536260359"
+            },
+            {
+                "EncounterUId": "2917573018240147",
+                "Message": "Encounter Draft Created",
+                "Time": "2024-04-29T14:00:22.5323631+05:30",
+                "EncounterStatus": "Draft",
+                "PractitionerUId": "0901238657536260359"
+            }
+        ],
+        "lstLinkedConsultationUIds": [],
+        "SymptomCheckerModel": {
+            "RefereneceID": "2911265086088591",
+            "StartDatetime": "2024-04-29 13:11:28.945868",
+            "EndDatetime": "2024-04-29 13:12:27.098355",
+            "FirstVisit": "",
+            "srcTyp": "HWC",
+            "isFormCompleted": "True",
+            "Symptoms": [
+                {
+                    "Alias": "Add to the list - Skinrash since 1week ",
+                    "Code": "",
+                    "BodyPart": "",
+                    "Attributes": [
+                        {
+                            "Tag": "Default Symptom - Description",
+                            "Value": "Skinrash since 1week",
+                            "Code": ""
+                        },
+                        {
+                            "Tag": "Default Symptom - Duration",
+                            "Value": "Recently",
+                            "Code": "162437001"
+                        },
+                        {
+                            "Tag": "Default Symptom - Onset",
+                            "Value": "Gradual",
+                            "Code": "61751001"
+                        }
+                    ]
+                }
+            ],
+            "DifferentialDiagnosis": [],
+            "Summary": "",
+            "IsError": false,
+            "ErrorDetail": "",
+            "Lifestyle": [],
+            "FamilyHistory": [],
+            "HealthHistory": [],
+            "OPDRecommendation": null,
+            "treatmentRegimen": null
+        },
+        "PrescriptionPath": "/esanjeevani-docs/encounter-docs/2917573018240147/Prescription.pdf",
+        "ConsultationScore": 25,
+        "lstECollabResponseData": [
+            {
+                "eCollabReferenceId": "736870",
+                "eCollabCaseId": "",
+                "eCollabRequestType": "1",
+                "iseCollabCaseCompleted": false
+            }
+        ],
+        "_rid": "6xkvAJVk3cAGgVkBAAAABA==",
+        "_self": "dbs/6xkvAA==/colls/6xkvAJVk3cA=/docs/6xkvAJVk3cAGgVkBAAAABA==/",
+        "_etag": "\"8401aaf6-0000-2000-0000-662f5a9e0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1714379422
+    }
+]

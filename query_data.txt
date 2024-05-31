@@ -1,0 +1,1 @@
+SELECT * FROM c where ARRAY_LENGTH(c.lstECollabResponseData) > 0 AND c.CreatedDate LIKE "2024-04-24%"
